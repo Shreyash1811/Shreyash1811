@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[📧][sjk714@nyu.edu]
+[📧][email]
 
 <br />
 
@@ -47,3 +47,4 @@
 [portfolio]: https://shreyash1811.github.io/machine-learning/
 [github]: https://github.com/Shreyash1811?tab=repositories
 [resume]: https://github.com/Shreyash1811/Shreyash1811.github.io/blob/master/images/Shreyashkathiriya_resume_Spring2020.pdf
+[email]: sjk714@nyu.edu
