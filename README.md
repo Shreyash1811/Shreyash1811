@@ -3,8 +3,8 @@
 
 ## I'm a curious learner, puzzle solver, content creator, and a Data Enthusiast!
 - 📚 I recently graduated from New York University with a Masters in Management of Technology [CV][resume]
-- 🔭 I’m a Data Science Practitioner
-- 🌱 I believe in constantly learning, I have made sure to make it a continuous process to stay updated in the domain I serve
+- :bowtie: I have worked with companies from completely diverse industries under roles varying from Data Analyst, Business Intelligence Analyt to Business Analyst  
+- 🌱 I am a strong believer of constantly learning, I spend good amount of time to learn and stay updated with the best practices used in the domain I serve
 - 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spread all that I learn in the form of easy to follow blog posts [Blogposts][portfolio]
 
 ### Connect with me:
