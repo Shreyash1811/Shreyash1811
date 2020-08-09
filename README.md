@@ -4,8 +4,8 @@
 ## I'm a curious learner, puzzle solver, content creator, and a Data Enthusiast!
 - 📚 I recently graduated from New York University with a Masters in Management of Technology [CV][resume]
 - 🔭 I’m a Data Science Practitioner
-- 🌱 I believe in constantly learning and I have made sure to make it a continuous process to stay updated in the domain I serve
-- 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spreading all that I learn in the form of blog posts [Blogposts][portfolio]
+- 🌱 I believe in constantly learning, I have made sure to make it a continuous process to stay updated in the domain I serve
+- 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spread all that I learn in the form of easy to follow blog posts [Blogposts][portfolio]
 
 ### Connect with me:
 
