@@ -32,6 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to AWS Rokognition and image recognition with Boto3](https://shreyash1811.github.io/python/aws_rekog/)
+- [AWS SNS Topic Configuration and Handling with Boto3 on Python with an alert system project.](https://shreyash1811.github.io/python/aws_sns_boto3/)
+- [AWS S3 File Handling and Data Manipulation using Boto3 on Python.](https://shreyash1811.github.io/python/aws_s3_boto3/)
+- [Introduction to sklearn NLTK, Logistic Regression classification on Movie Reviews to predict ratings](https://shreyash1811.github.io/python/movie_review/)
+- [Managing AWS S3 Storage from CMD using CLI](https://shreyash1811.github.io/python/aws_cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
