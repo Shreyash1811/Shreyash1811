@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Shreyash1811/Shreyash1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there, I'm Shreyaskumar - aka [Shreyash1811][website] 👋
 
