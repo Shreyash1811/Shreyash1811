@@ -2,14 +2,14 @@
 ### Hi there, I'm Shreyaskumar - [Website][website] 👋
 
 ## I'm a curious learner, puzzle solver, content creator, and a Data Enthusiast!
-- 📚 I recently graduated from New York University with a Masters in Management of Technology
+- 📚 I recently graduated from New York University with a Masters in Management of Technology [CV][resume]
 - 🔭 I’m a Data Science Practitioner
 - 🌱 I believe in constantly learning and I have made sure to make it a continuous process to stay updated in the domain I serve
-- 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spreading all that I learn in the form of blog posts [Blogposts][website]
+- 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spreading all that I learn in the form of blog posts [Blogposts][portfolio]
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -43,5 +43,6 @@
 
 [website]: https://shreyash1811.github.io/
 [linkedin]: https://www.linkedin.com/in/shreyaskumar-nyu/
-[portfolio]: https://shreyash1811.github.io/categories/#python
+[portfolio]: https://shreyash1811.github.io/machine-learning/
 [github]: https://github.com/Shreyash1811?tab=repositories
+[resume]: https://github.com/Shreyash1811/Shreyash1811.github.io/blob/master/images/Shreyashkathiriya_resume_Spring2020.pdf
