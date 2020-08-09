@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyash1811&show_icons=true&hide_border=true" />
 
 [website]: https://shreyash1811.github.io/
 [linkedin]: https://www.linkedin.com/in/shreyaskumar-nyu/
