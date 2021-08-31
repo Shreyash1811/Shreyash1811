@@ -2,8 +2,9 @@
 ### Hi there, I'm Shreyaskumar - [Website][website] 👋
 
 ## I'm a curious learner, puzzle solver, content creator, and a Data Enthusiast!
-- 📚 I recently graduated from New York University with a Masters in Management of Technology [CV][resume]
-- :bowtie:  I have worked with companies from completely diverse industries under roles varying from Data Analyst, Business Intelligence Analyt to Business Analyst  
+- I love everything data and currently been exploring the field of Data Governance and building enterprises solutions around it
+- 📚 I graduated from New York University with a Masters in Management of Technology [CV][resume]
+- I have worked with companies from completely diverse industries under roles varying from Data Analyst, Business Intelligence Analyt to Business Analyst  
 - 🌱 I am a strong believer of constantly learning, I spend good amount of time to learn and stay updated with the best practices used in the domain I serve
 - 👯 I have newly discovered my love for content creating, I have been using it as an excuse to further better my technical skills and spread all that I learn in the form of easy to follow blog posts [Blogposts][portfolio]
 
