@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [30 days of SQL leet code day 11-14](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
-- [30 days of SQL leet code day 7-10](https://shreyash1811.github.io/sql/sql_30day_challenge_7to10/)
-- [30 days of SQL leet code day 4-6](https://shreyash1811.github.io/sql/sql_30day_challenge_4to6/)
-- [30 days of SQL leet code day 1-3](https://shreyash1811.github.io/sql/sql_30day_challenge/)
-- [Tableau analysis on wage gap for Genders for Employment Now, a staffing company](https://shreyash1811.github.io/tableau/Tableau_Employment_case/)
+- [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
+- [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_15to18/)
+- [30 days of SQL leet code day 11-14 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
+- [30 days of SQL leet code day 7-10 (Hard)](https://shreyash1811.github.io/sql/sql_30day_challenge_7to10/)
+- [30 days of SQL leet code day 4-6 (Hard)](https://shreyash1811.github.io/sql/sql_30day_challenge_4to6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
