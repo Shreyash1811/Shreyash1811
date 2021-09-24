@@ -32,7 +32,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
+- [30 days of SQL leet code day 19-21 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
 - [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_15to18/)
 - [30 days of SQL leet code day 11-14 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
 - [30 days of SQL leet code day 7-10 (Hard)](https://shreyash1811.github.io/sql/sql_30day_challenge_7to10/)
