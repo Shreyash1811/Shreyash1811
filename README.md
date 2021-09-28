@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tableau analysis on wage gap for Genders for Employment Now, a staffing company](https://shreyash1811.github.io/tableau/Tableau_Employment_case/)
-- [Tableau solution for Office Destination Sales Case](https://shreyash1811.github.io/tableau/Tableau_office_destination_sales_case/)
-- [A complete guide to AWS Rokognition and image recognition with Boto3](https://shreyash1811.github.io/python/aws_rekog/)
-- [AWS SNS Topic Configuration and Handling with Boto3 on Python with an alert system project.](https://shreyash1811.github.io/python/aws_sns_boto3/)
-- [AWS S3 File Handling and Data Manipulation using Boto3 on Python.](https://shreyash1811.github.io/python/aws_s3_boto3/)
+- [30 days of SQL leet code day 25-29 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_25to29/)
+- [30 days of SQL leet code day 22-24 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_22to24/)
+- [30 days of SQL leet code day 19-21 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
+- [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_15to18/)
+- [30 days of SQL leet code day 11-14 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
