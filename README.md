@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [30 days of SQL leet code day 25-29 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_25to29/)
-- [30 days of SQL leet code day 22-24 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_22to24/)
-- [30 days of SQL leet code day 19-21 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
-- [30 days of SQL leet code day 15-18 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_15to18/)
-- [30 days of SQL leet code day 11-14 (Medium)](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
+- [30 days of SQL leet code day 25-29 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_25to29/)
+- [30 days of SQL leet code day 22-24 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_22to24/)
+- [30 days of SQL leet code day 19-21 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_19to20/)
+- [30 days of SQL leet code day 15-18 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_15to18/)
+- [30 days of SQL leet code day 11-14 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_11to14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
