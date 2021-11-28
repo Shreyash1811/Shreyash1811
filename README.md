@@ -32,7 +32,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 1 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_ch1/)
+- [Section-1 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_ch1/)
 - [My introduction to Spacy](https://shreyash1811.github.io/python/introduction_to_spacy/)
 - [30 days of SQL leet code day 25-29 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_25to29/)
 - [30 days of SQL leet code day 22-24 &lpar;Medium&rpar;](https://shreyash1811.github.io/sql/sql_30day_challenge_22to24/)
