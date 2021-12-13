@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Section-5 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_sec5/)
 - [Section-4 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_sec4/)
 - [Section-3 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_sec3/)
 - [Section-2 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_sec2/)
 - [Section-1 of Mastering spaCy by Duygu Altinok](https://shreyash1811.github.io/python/mastering_SpaCy_sec1/)
-- [My introduction to Spacy](https://shreyash1811.github.io/python/introduction_to_spacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
